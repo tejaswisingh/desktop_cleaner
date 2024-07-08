@@ -7,7 +7,6 @@ def move_files(source_dir, target_dir):
 
     # Get a list of all files in the source directory
     file_names = os.listdir(source_dir)
-    print(file_names)
 
     # Exclude the recycle bin folder (if it exists)
     if "Recycle Bin" in file_names:
