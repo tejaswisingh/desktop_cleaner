@@ -12,4 +12,4 @@ To convert the script into a windows executable one would need to install pyinst
 
 To run the unit tests, use the following command:-
 
-  `python -m unittest test_desktop_cleanup`
+    `python -m unittest test_desktop_cleanup`
